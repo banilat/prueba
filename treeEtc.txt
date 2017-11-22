@@ -7,12 +7,12 @@
 │   │   ├── [root      423]  powerbtn
 │   │   ├── [root      277]  thinkpad-cmos
 │   │   └── [root      222]  tosh-wireless
-│   │       ├── [root      271]  asus-keyboard-backlight-down
-│   │       ├── [root      423]  powerbtn
-│   │       ├── [root      277]  thinkpad-cmos
-│   │       └── [root      222]  tosh-wireless
-│   │           ├── [root      277]  thinkpad-cmos
-│   │           └── [root      222]  tosh-wireless
+│   │       ├── [root      271]  carp1
+│   │       ├── [root      423]  carp2
+│   │       ├── [root      277]  carp3
+│   │       └── [root      222]  carp4
+│   │           ├── [root      277]  carp5
+│   │           └── [root      222]  carp6
 │   ├── [root      608]  ibm-wireless.sh
 │   ├── [root     2.4K]  powerbtn.sh
 │   ├── [root      455]  tosh-wireless.sh
