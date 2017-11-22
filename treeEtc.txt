@@ -1,5 +1,5 @@
 /etc
-├── [root     4.0K]  acpi
+├── [banilat  4.0K]  acpi
 │   ├── [root      391]  asus-keyboard-backlight.sh
 │   ├── [root      180]  asus-wireless.sh
 │   ├── [root     4.0K]  events
