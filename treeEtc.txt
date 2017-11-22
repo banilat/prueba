@@ -12,7 +12,7 @@
 │   │       ├── [root      277]  carp3
 │   │       └── [root      222]  carp4
 │   │           ├── [root      277]  carp5
-│   │           └── [root      222]  carp6
+│   │           └── [root       16]  x-www-browser -> /usr/bin/firefox
 │   ├── [root      608]  ibm-wireless.sh
 │   ├── [root     2.4K]  powerbtn.sh
 │   ├── [root      455]  tosh-wireless.sh
