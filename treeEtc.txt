@@ -34,10 +34,10 @@
 │   ├── [root     4.0K]  event.d
 │   │   ├── [root     2.2K]  20hdparm
 │   │   └── [root      753]  anacron
-│   ├── [root     4.0K]  resume.d
-│   │   └── [root       17]  20alsa -> ../scripts.d/alsa
-│   ├── [root     4.0K]  scripts.d
-│   │   └── [root      228]  alsa
+│   │       ├── [root     4.0K]  resume.d
+│   │       └── [root       17]  20alsa -> ../scripts.d/alsa
+│   │           ├── [root     4.0K]  scripts.d
+│   │           └── [root      228]  alsa
 │   └── [root     4.0K]  suspend.d
 │       └── [root       17]  80alsa -> ../scripts.d/alsa
 ├── [root     4.0K]  apparmor
